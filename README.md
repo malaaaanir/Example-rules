@@ -1,4 +1,4 @@
-# NAMA APLIAKSI:smiling_imp:
+# NAMA APLIAKSI :smiling_imp:
 > [!NOTE]
 > FULAN - 13X202XXXXX
 
