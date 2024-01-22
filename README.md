@@ -8,6 +8,10 @@
 - Tujuan dari Aplikasi Anda 
 - Teknologi yang digunakan
 
+### Fitur MVP Aplikasi
+- ...
+- ...
+- ...
 
 
 ### Penjelasan Mengenai Arsitektur MVC
